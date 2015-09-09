@@ -1,2 +1,2 @@
-proposal.tex
+Scientific context.tex
 section_Scientific_objectives__.tex
