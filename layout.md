@@ -4,3 +4,4 @@ section_Proposed_observations_subsection_Source__.tex
 section_Technical_justification_Time_estimation__.tex
 section_Figures_and_Tables_Tab1__.tex
 figures/synth_spec/synth_spec.png
+figures/proposal_corner/proposal_corner.jpg
