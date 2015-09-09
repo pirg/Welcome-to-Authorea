@@ -5,3 +5,5 @@ section_Technical_justification_Time_estimation__.tex
 section_Figures_and_Tables_begin__.tex
 figures/synth_spec/synth_spec.png
 figures/proposal_corner/proposal_corner.jpg
+
+  
