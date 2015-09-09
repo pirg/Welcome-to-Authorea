@@ -2,3 +2,4 @@ section_Scientific_context_begin_itemize__.tex
 section_Scientific_objectives_begin_itemize__.tex
 section_Proposed_observations_subsection_Source__.tex
 section_Technical_justification__.tex
+section_Figures_and_Tables_Fig1__.tex
