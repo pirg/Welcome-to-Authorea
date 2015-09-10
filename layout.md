@@ -4,6 +4,7 @@ section_Proposed_observations_subsection_Source__.tex
 section_Technical_justification_With_1h__.tex
 section_Figures_and_Tables_begin__.tex
 figures/synth_spec1/synth_spec1.png
+figures/synth_spec2/synth_spec2.png
 figures/proposal_corner/proposal_corner.jpg
 
   
